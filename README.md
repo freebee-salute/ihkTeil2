@@ -28,7 +28,7 @@
 
 - Meldung
 
-  `Programm stammt aus einer nicht verrauenswürdigen Quelle`
+  `Programm stammt aus einer nicht vertrauenswürdigen Quelle`
 
   erklären und beheben können (Einstellung beim Kompilieren)
 
