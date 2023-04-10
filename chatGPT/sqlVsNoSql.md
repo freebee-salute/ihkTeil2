@@ -23,6 +23,7 @@ Vorteile:
 - Hohe Datenkonsistenz und -integrität durch Transaktionsmanagement
 - Gute Unterstützung von relationalen Datenmodellen
 - Skalierbarkeit durch Einsatz von Clustering und Replikation
+
 Nachteile:
 - Schwieriger Einsatz bei sehr großen Datenmengen und hohen Zugriffsraten
 - Hoher Ressourcenbedarf, insbesondere bei ACID-Transaktionen
@@ -34,6 +35,7 @@ Vorteile:
 - Sehr gut skalierbar, auch horizontal durch Verteilung auf mehrere Server
 - Flexible Datenmodellierung, da keine festen Schemata erforderlich sind
 - Geringerer Ressourcenbedarf durch Verzicht auf Transaktionsmanagement
+
 Nachteile:
 - Eingeschränkte Datenkonsistenz und -integrität durch Verzicht auf-  - Transaktionsmanagement
 - Keine Unterstützung von relationalen Datenmodellen
