@@ -1,23 +1,29 @@
-# Homogeneous IT infrastructure, in which all components are identical, has several advantages
+# Homogene IT-Infrastruktur
 
-    Easier to manage: Because all components are the same, it is easier to manage them and ensure they are all up to date.
-    Cost-effective: Since only one type of component is used, it is often less expensive to purchase and maintain.
-    Predictable performance: Because all components are the same, their performance is predictable and can be expected to be the same across the board.
+Homogene IT-Infrastruktur, bei der alle Komponenten identisch sind, hat einige Vorteile:
 
-However, homogeneous IT infrastructure also has some disadvantages:
+Vorteile von homogener IT-Infrastruktur:
 
-    Lack of flexibility: Since all components are the same, it can be difficult to make changes to the infrastructure without disrupting the entire system.
-    Limited functionality: If the components are not capable of performing certain functions, the entire system may be limited in terms of what it can do.
-    Single point of failure: If one component fails, it can affect the entire system.
+- Einfacher zu verwalten: Da alle Komponenten gleich sind, ist es einfacher, sie zu verwalten und sicherzustellen, dass sie alle auf dem neuesten Stand sind.
+- Kosteneffektiv: Da nur eine Art von Komponente verwendet wird, ist es oft weniger teuer, sie zu kaufen und zu warten.
+- Vorhersehbare Leistung: Da alle Komponenten gleich sind, ist ihre Leistung vorhersehbar und kann für das gesamte System erwartet werden.
 
-Inhomogeneous IT infrastructure, on the other hand, has its own set of pros and cons:
+Nachteile von homogener IT-Infrastruktur:
 
-    More flexible: Since different types of components can be used, it is easier to make changes to the infrastructure without disrupting the entire system.
-    More functionality: Different components can be chosen for their specific functionality, allowing the system to perform a wider range of tasks.
-    Redundancy: If one component fails, other components can pick up the slack and keep the system running.
+- Mangelnde Flexibilität: Da alle Komponenten gleich sind, kann es schwierig sein, Änderungen an der Infrastruktur vorzunehmen, ohne das gesamte System zu beeinträchtigen.
+- Begrenzte Funktionalität: Wenn die Komponenten nicht in der Lage sind, bestimmte Funktionen auszuführen, kann das gesamte System in Bezug auf das, was es tun kann, eingeschränkt sein.
+- Einzelner Ausfallpunkt: Wenn eine Komponente ausfällt, kann dies das gesamte System beeinträchtigen.
 
-However, inhomogeneous IT infrastructure also has some disadvantages:
+Inhomogene IT-Infrastruktur hat dagegen ihre eigenen Vor- und Nachteile:
 
-    More difficult to manage: Because different types of components are used, it can be more difficult to manage and ensure they are all up to date.
-    More expensive: Because different types of components are used, it can be more expensive to purchase and maintain the infrastructure.
-    More complex: With different types of components comes added complexity, which can lead to more opportunities for errors and failures.
+Vorteile von inhomogener IT-Infrastruktur:
+
+- Flexibler: Da verschiedene Arten von Komponenten verwendet werden können, ist es einfacher, Änderungen an der Infrastruktur vorzunehmen, ohne das gesamte System zu beeinträchtigen.
+- Mehr Funktionalität: Unterschiedliche Komponenten können aufgrund ihrer spezifischen Funktionen ausgewählt werden, was dem System ermöglicht, eine breitere Palette von Aufgaben auszuführen.
+- Redundanz: Wenn eine Komponente ausfällt, können andere Komponenten einspringen und das System am Laufen halten.
+
+Nachteile von inhomogener IT-Infrastruktur:
+
+- Schwieriger zu verwalten: Da verschiedene Arten von Komponenten verwendet werden, kann es schwieriger sein, sie zu verwalten und sicherzustellen, dass sie alle auf dem neuesten Stand sind.
+- Teurer: Da verschiedene Arten von Komponenten verwendet werden, kann es teurer sein, die Infrastruktur zu kaufen und zu warten.
+- Komplexer: Verschiedene Arten von Komponenten bedeuten zusätzliche Komplexität, was zu mehr Möglichkeiten für Fehler und Ausfälle führen kann.

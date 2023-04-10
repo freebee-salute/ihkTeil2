@@ -154,7 +154,7 @@
   
   `Programm stammt aus einer nicht verrauenswürdigen Quelle`
 
-    erklären und beheben können (Einstellung beim Kompilieren?)
+    erklären und beheben können (Einstellung beim Kompilieren)
 
 - [chatGPT](./chatGPT/trust.md)
 

@@ -1,4 +1,4 @@
-#
+# CI/CD
 
 Automatische Kompilierung und Bereitstellung (engl. automated compilation and deployment) bezieht sich auf den Prozess, bei dem Codeänderungen, die von Entwicklern vorgenommen wurden, automatisch in eine ausführbare Form kompiliert werden und dann in einer Umgebung bereitgestellt werden, in der sie getestet und ausgeführt werden können. Der Prozess kann manuell oder automatisch gesteuert werden und umfasst oft auch die Überprüfung der Codequalität und die Ausführung von Tests, bevor der Code in die Produktionsumgebung verschoben wird.
 

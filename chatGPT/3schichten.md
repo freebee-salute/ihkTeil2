@@ -1,4 +1,4 @@
-#
+# 3-Schichten-Architektur
 
 Die 3-Schichten-Architektur für Webanwendungen ist ein Designmuster für die Strukturierung von Anwendungen, bei dem die Anwendung in drei logische Schichten aufgeteilt wird: Präsentation, Logik und Daten.
 

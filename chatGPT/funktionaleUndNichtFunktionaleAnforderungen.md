@@ -1,23 +1,24 @@
-#
+# Anforderungen an IT-Infrastruktur
 
-Functional requirements refer to what the IT infrastructure is supposed to do, while non-functional requirements refer to how well it is supposed to do it. Here are some examples of functional and non-functional requirements for IT infrastructure:
+Funktionale Anforderungen beziehen sich darauf, was die IT-Infrastruktur tun soll, während nicht-funktionale Anforderungen sich darauf beziehen, wie gut sie es tun soll. Hier sind einige Beispiele für funktionale und nicht-funktionale Anforderungen an die IT-Infrastruktur:
 
-Functional Requirements:
+Funktionale Anforderungen:
 
-    Support for multiple operating systems and platforms
-    Compatibility with a range of hardware and software
-    Ability to handle high volumes of traffic or data
-    Fast and reliable performance
-    Scalability for future growth or expansion
-    Integration with other systems and applications
-    Security features to protect against threats and attacks
+- Unterstützung für mehrere Betriebssysteme und Plattformen
+- Kompatibilität mit einer Reihe von Hardware- und Software-Systemen
+- Fähigkeit, hohe Daten- oder Traffic-Volumina zu bewältigen
+- Schnelle und zuverlässige Leistung
+- Skalierbarkeit für zukünftiges Wachstum oder Erweiterung
+- Integration mit anderen Systemen und Anwendungen
+- Sicherheitsfunktionen zum Schutz vor Bedrohungen und Angriffen
 
-Non-Functional Requirements:
+Nicht-funktionale Anforderungen:
 
-    Availability: the system should be up and running as much as possible
-    Reliability: the system should be able to perform consistently and without errors
-    Performance: the system should perform fast and efficiently
-    Usability: the system should be easy to use and navigate
-    Maintainability: the system should be easy to maintain and update
-    Scalability: the system should be able to grow and expand as needed
-    Security: the system should be secure and protect against unauthorized access or data breaches.
+- Verfügbarkeit: Das System sollte so oft wie möglich betriebsbereit sein.
+- Zuverlässigkeit: Das System sollte konsequent und ohne Fehler arbeiten.
+- Leistung: Das System sollte schnell und effizient arbeiten.
+- Benutzerfreundlichkeit: Das System sollte einfach zu bedienen und zu navigieren sein.
+- Wartbarkeit: Das System sollte einfach zu warten und zu aktualisieren sein.
+- Skalierbarkeit: Das System sollte bei Bedarf wachsen und erweitert werden können.
+- Sicherheit: Das System sollte sicher sein und vor unbefugtem Zugriff oder Datenverletzungen schützen.
+- 

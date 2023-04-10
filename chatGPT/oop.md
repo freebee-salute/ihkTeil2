@@ -1,4 +1,4 @@
-#
+# OOP
 
 Die objektorientierte Programmierung (OOP) ist ein Paradigma der Softwareentwicklung, das auf der Verwendung von Objekten basiert. Ein Objekt ist eine Instanz einer Klasse, die Eigenschaften (Attribute) und Verhaltensweisen (Methoden) hat. OOP hat das Ziel, komplexe Software leichter zu strukturieren, indem es die Daten und die dazugehörigen Funktionen zusammen in einem Objekt organisiert.
 

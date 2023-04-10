@@ -1,4 +1,4 @@
-#
+# Compiler und Interpretr
 
 Ein Compiler und ein Interpreter sind zwei verschiedene Arten von Software, die eine Programmiersprache in ausführbaren Code umwandeln können.
 

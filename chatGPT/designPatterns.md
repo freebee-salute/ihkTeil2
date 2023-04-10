@@ -1,4 +1,4 @@
-#
+# Design Patterns
 
 Design Patterns sind bewährte Lösungsmuster, die bei der Entwicklung von Software eingesetzt werden, um wiederkehrende Probleme zu lösen. Es gibt verschiedene Arten von Design Patterns, die in drei Hauptkategorien unterteilt werden: Creational Patterns, Structural Patterns und Behavioral Patterns.
 

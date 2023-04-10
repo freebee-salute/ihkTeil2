@@ -1,4 +1,4 @@
-#
+# TLS
 
 TLS (Transport Layer Security) ist ein Protokoll zur sicheren Kommunikation über das Internet, das zum Schutz von Daten vor unbefugtem Zugriff entwickelt wurde. Es ist der Nachfolger des SSL (Secure Sockets Layer)-Protokolls und bietet ähnliche Funktionen, aber mit verbesserten Sicherheitsfunktionen.
 
