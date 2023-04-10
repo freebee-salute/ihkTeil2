@@ -6,26 +6,33 @@
 
 - Vor- und Nachteile
 - Erklären können
+- [chatGPT](./chatGPT/homogeneVsInhomogeneInfrastruktur.md)
 
 ## Funktionale und nicht funktionale Anforderungen an IT-Infrastruktur
 
 - Anforderungen nennen können
+- [chatGPT](./chatGPT/funktionaleUndNichtFunktionaleAnforderungen.md)
 
 ## Automatische Kompilierung und Bereitstellung
 
 - vor und Nachteile
+- [chatGPT](./chatGPT/automatischeKompilierung.md)
 
 ## TLS
 
 - was ist TLS?
 - Authentizität erkennen, ohne alle Public-Keys zu kennen?
+- [chatGPT](./chatGPT/tls.md)
 
 ## OAuth2
 
 - OAuth2 vs Single-SignOn
 - Vor und Nachteile
+- [chatGPT](./chatGPT/oAuth2.md)
 
-## Webanwendung: 3-Schichten-Architektur
+## Webanwendung:
+
+- 3-Schichten-Architektur
 
 ## Agile vs klassiche Vorgehensweisen
 
