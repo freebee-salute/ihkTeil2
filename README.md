@@ -36,7 +36,7 @@
 
 ### OAuth2
 
-- OAuth2 vs Single-SignOn
+- OAuth2 vs Single-Sign-On
 - Vor und Nachteile
 - [chatGPT](./chatGPT/oAuth2.md)
 
