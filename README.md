@@ -1,4 +1,5 @@
-# Inhalte von Teil 2 Aufgabe 1 neue Ordnung
+# Teil 2
+## Aufgabe 1: Planen eines Softwareproduktes
 
 ---
 
