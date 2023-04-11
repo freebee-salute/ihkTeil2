@@ -93,7 +93,7 @@
 ### Ticketsysteme
 
 - Vor- und Nachteile
-- [chatGPT](./ticketsysteme.md)
+- [chatGPT](./chatGPT/ticketsysteme.md)
 
 ### UML
 
