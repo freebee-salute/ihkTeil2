@@ -1,5 +1,9 @@
 # Aufgabe 2: Entwicklung und Umsetzung von Algorithmen
 
+## Algorithmen
+
+---
+
 ### BubbleSort
 
 - Implementieren
@@ -11,14 +15,51 @@
 - Vergleich von rekursiven und iterativen Algorithmen
 - Fehler in Algorithmus erkennen
 
-### Whitebox-Test
+### passenden Algorithmus wählen
 
-- Was ist Anweisungsüberdeckung?
+- Begründung
+- praxistauglichkeit bewerten
 
 ### Algorithmus umrechnung Dezimal <-> Binär
 
 - Implementieren
 - Fehler in vorgegebenem Code finden
+
+### Methode zur statistischen Auswertung eines Arrays
+
+- Implementieren für mehrdimensionales Array
+- **kommt mehrfach vor!**
+
+---
+
+## Software-Engineering
+
+---
+
+### Whitebox-Test
+
+- Was ist Anweisungsüberdeckung?
+
+### Unit-Test
+
+- welche Eigenschaften sollte er erfüllen?
+- Unit-Test als Schreibtischtest durchführen
+- Testcases ergänzen
+
+### UML
+
+- Aktivitätsdiagramm
+
+### Struktogramm
+
+- lesen können
+- korrigieren können
+
+---
+
+## Datenbanken  
+
+---
 
 ### ER-Modell
 
@@ -40,33 +81,8 @@
 - Tabellen anlegen
 - Update
 
-### Methode zur statistischen Auswertung eines Arrays
-
-- Implementieren für mehrdimensionales Array
-- **kommt mehrfach vor!**
-
-### Unit-Test
-
-- welche Eigenschaften sollte er erfüllen?
-- Unit-Test als Schreibtischtest durchführen
-- Testcases ergänzen
-
 ### Datenbankmodell aus Rechnung erstellen
 
 - In  3.NF
 - mit Beziehungen, Kardinalitäten
 - **kommt mehrfach vor!**
-
-### UML
-
-- Aktivitätsdiagramm
-  
-### passenden Algorithmus wählen
-
-- Begründung
-- praxistauglichkeit bewerten
-
-### Struktogramm
-
-- lesen können
-- korrigieren können
