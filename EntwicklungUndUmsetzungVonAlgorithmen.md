@@ -100,4 +100,4 @@
 - In  3.NF
 - mit Beziehungen, Kardinalitäten
 - **kommt mehrfach vor!**
-- [3.NF @ datenbanken-verstehen](https://www.datenbanken-verstehen.de/datenmodellierung/normalisierung/dritte-normalform/)
+- [3.NF @ datenbanken-verstehen](https://www.datenbanken-verstehen.de/datenmodellierung/normalisierung/dritte-normalform/){:target="_blank"}
