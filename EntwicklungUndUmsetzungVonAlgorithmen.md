@@ -10,15 +10,15 @@
 - mit generischen Klassen erweitern
 - Vergleich von Attributen
 - [chatGPT](./chatGPT/teil2/generics.md)
-- [bubbleSort @ GFG](https://www.geeksforgeeks.org/bubble-sort/)
-- [generics in java @ baeldung](https://www.baeldung.com/java-generics)
+- <a href="https://www.geeksforgeeks.org/bubble-sort/" target="_blank">bubbleSort @ GFG</a>
+- <a href="https://www.baeldung.com/java-generics" target="_blank">generics in java @ baeldung</a>
 
 ### Rekursion vs Iteration
 
 - Vergleich von rekursiven und iterativen Algorithmen
 - Fehler in Algorithmus erkennen
 - [chatGPT](./chatGPT/teil2/rekursion.md)
-- [recursion  @ baeldung](https://www.baeldung.com/java-recursion)
+- <a href="https://www.baeldung.com/java-recursion" target="_blank">recursion  @ baeldung</a>
 
 ### passenden Algorithmus wählen
 
@@ -34,7 +34,7 @@
 
 - Implementieren für mehrdimensionales Array
 - **kommt mehrfach vor!**
-- [2d-array in java @ GFG](https://www.geeksforgeeks.org/multidimensional-arrays-in-java/)
+- <a href="https://www.geeksforgeeks.org/multidimensional-arrays-in-java/" target="_blank">2d-array in java @ GFG</a>
 
 ---
 
@@ -46,7 +46,7 @@
 
 - Was ist Anweisungsüberdeckung?
 - [chatGPT](./chatGPT/teil2/anweisungsueberdeckung.md)
-- [Wikipedia](https://de.wikipedia.org/wiki/Kontrollflussorientierte_Testverfahren#C0._Anweisungs%C3%BCberdeckungstest_(Statement_Coverage))
+- <a href="https://de.wikipedia.org/wiki/Kontrollflussorientierte_Testverfahren#C0._Anweisungs%C3%BCberdeckungstest_(Statement_Coverage)" target="_blank">Wikipedia</a>
 
 ### Unit-Test
 
@@ -58,13 +58,13 @@
 ### UML
 
 - Aktivitätsdiagramm
-- [Wikipedia](https://de.wikipedia.org/wiki/Aktivit%C3%A4tsdiagramm)
+- <a href="https://de.wikipedia.org/wiki/Aktivit%C3%A4tsdiagramm" target="_blank">Wikipedia</a>
 
 ### Struktogramm
 
 - lesen können
 - korrigieren können
-- [Wikipedia](https://de.wikipedia.org/wiki/Nassi-Shneiderman-Diagramm)
+- <a href="https://de.wikipedia.org/wiki/Nassi-Shneiderman-Diagramm" target="_blank">Wikipedia</a>
 
 ---
 
@@ -78,7 +78,7 @@
 - Beziehungen
 - Kardinalitäten
 - Umwandlung in relationales Datenmodell (3.NF)
-- [Datenbanken verstehen](https://www.datenbanken-verstehen.de/datenmodellierung/entity-relationship-modell/)
+- <a href="https://www.datenbanken-verstehen.de/datenmodellierung/entity-relationship-modell/" target="_blank">Datenbanken verstehen</a>
 
 ### SQL
 
@@ -92,12 +92,12 @@
 - Order by, Group by
 - Tabellen anlegen
 - Update
-- [index](https://www.datenbanken-verstehen.de/datenmodellierung/datenbank-index/)
-- [Stored Procedure @ W3Schools](https://www.w3schools.com/sql/sql_stored_procedures.asp)
+- <a href="https://www.datenbanken-verstehen.de/datenmodellierung/datenbank-index/" target="_blank">Datenbanken verstehen</a>
+- <a href="https://www.w3schools.com/sql/sql_stored_procedures.asp" target="_blank">Stored Procedure @ W3Schools</a>
 
 ### Datenbankmodell aus Rechnung erstellen
 
 - In  3.NF
 - mit Beziehungen, Kardinalitäten
 - **kommt mehrfach vor!**
-- [3.NF @ datenbanken-verstehen](https://www.datenbanken-verstehen.de/datenmodellierung/normalisierung/dritte-normalform/)
+- <a href="https://www.datenbanken-verstehen.de/datenmodellierung/normalisierung/dritte-normalform/" target="_blank">3.NF @ datenbanken-verstehen</a>
