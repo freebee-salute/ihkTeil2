@@ -9,3 +9,11 @@ TLS bietet verschiedene Sicherheitsmechanismen wie die Verschlüsselung von Date
 TLS ist eine wichtige Komponente bei der Sicherung von Online-Transaktionen und anderen sensiblen Daten, und wird von vielen Web-Browsern und Servern unterstützt. Es wird jedoch ständig weiterentwickelt, um den sich ständig ändernden Bedrohungen durch Cyberkriminalität und Hacking zu begegnen.
 
 Bei TLS kann die Authentizität der Gegenstelle auch dann überprüft werden, wenn man im Vorhinein nicht alle Public Keys kennt. Dies geschieht mithilfe von digitalen Zertifikaten, die von vertrauenswürdigen Zertifizierungsstellen (Certificate Authorities, CA) ausgestellt werden. Die Zertifizierungsstelle überprüft die Identität des Antragstellers und stellt ihm ein digitales Zertifikat aus, das die Identität des Antragstellers und seinen öffentlichen Schlüssel enthält. Wenn eine Verbindung hergestellt wird, sendet die Gegenstelle ihr Zertifikat und der Empfänger überprüft das Zertifikat anhand des öffentlichen Schlüssels der Zertifizierungsstelle, um die Identität der Gegenstelle zu überprüfen. Wenn das Zertifikat gültig ist, kann man davon ausgehen, dass man tatsächlich mit der erwarteten Gegenstelle verbunden ist.
+
+Vorgang:
+
+1. Client kontaktiert den Server. Dieser Antwortet mit einem SSL-Zertifikat
+2. Client prüft die Gültigkeit des Zertifikates und sendet dem Server eine Zufallszahl, verschlüsselt mit dem **public-key** des Servers
+3. Der Server erzeugt aus dieser Zufallszahl einen **Sitzungsschlüssel** (Session key). Mit diesem wird die Kommunikation verschlüsselt.
+4. Der Server sendet dem Client den Sitzungsschlüssel in verschlüsselter Form.
+5. Nun können beide Parteien ihre Datem mit dem Sitzungsschlüssel gesichert senden.
